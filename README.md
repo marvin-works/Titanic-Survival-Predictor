@@ -20,7 +20,7 @@ A beginner machine learning project using the **Titanic dataset** and **Logistic
 
 ### 📊 Result
 
-**Accuracy: 77.1%**
+**Accuracy: 80.0%**
 
 ### 🧠 What I Learned
 
